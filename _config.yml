@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Haider Shah"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio_photo.png"
   bio              : "Father of two and a Data Scientist by profession"
   location         : "Vancouver, Canada"
   email            :
